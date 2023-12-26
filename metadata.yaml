@@ -1,0 +1,32 @@
+_repo: At-home-in-the-smokies_72365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. National Park Service
+    aliases:
+    - National Park Service (U.S.)
+    - United States. Department of the Interior. National Park Service
+    - Service, United States National Park
+    - Service, National Park
+    gutenberg_agent_id: '45167'
+    url: http://www.gutenberg.org/2009/agents/45167
+    wikipedia: https://en.wikipedia.org/wiki/National_Park_Service
+description: ''
+gutenberg_issued: '2023-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72365'
+language: en
+pgterms:marc905: 20221209034927service
+pgterms:marc906: '1984'
+pgterms:marc907: US
+production_note: Carla Foust, Steve Mattern, Thiers Halliwell and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aWashington DC :$bNational Park Service, $c1984.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: At home in the smokies
+url: http://www.gutenberg.org/ebooks/72365
